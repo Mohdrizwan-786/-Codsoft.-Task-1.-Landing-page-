@@ -1,1 +1,1 @@
-# -Codsoft.-Task-1.-Landing-page-
+#Codsoft.Task-1.Landing page
